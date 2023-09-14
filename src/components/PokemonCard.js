@@ -13,6 +13,7 @@ function PokemonCard() {
         </div>
         <div className="extra content">
           <span>
+            
             <i className="icon heartbeat red" />
             POKEMON HP HERE hp
           </span>

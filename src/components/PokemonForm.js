@@ -4,7 +4,9 @@ import { Form } from "semantic-ui-react";
 function PokemonForm() {
   return (
     <div>
+
       <h3>Add a Pokemon!</h3>
+      
       <Form
         onSubmit={() => {
           console.log("submitting form...");
